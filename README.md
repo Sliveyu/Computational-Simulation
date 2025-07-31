@@ -27,5 +27,5 @@ While domain-specific, this project showcases how analytical thinking and eviden
 - Simulation outputs showed **<±0.5% performance variance**, far exceeding the ±5% industry threshold—demonstrating **high model reliability** and reproducibility.
 - Identified **optimisation limitations** in the MatRad framework, prompting suggestions for improved algorithms, automated contouring, and increasingly diverse patient datasets.
 
-## Thank you for reading!
+## Thank You for Reading!
 ---
